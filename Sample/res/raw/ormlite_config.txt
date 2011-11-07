@@ -1,0 +1,31 @@
+#
+# generated on 2011/11/08 01:58:41
+#
+# --table-start--
+dataClass=jp.funnything.ormlite.sample.entity.SomeEntity
+tableName=someentity
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=jp.funnything.ormlite.sample.entity.OtherEntity
+tableName=otherentity
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=namexxx
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
