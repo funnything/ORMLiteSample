@@ -11,5 +11,5 @@ public class OtherEntity {
     public int id;
 
     @DatabaseFieldSimple
-    public String namexxx;
+    public String name;
 }
